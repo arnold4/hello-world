@@ -1,5 +1,3 @@
 # hello-world
 
-Like tor Travel 
-Love experimental dishes to Eat
-Believe in unexpectations
+A newbie in programming. Would like to become an Intermediate in the programming world. Looking forward to the contributions for my Programming development
